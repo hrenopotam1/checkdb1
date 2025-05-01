@@ -1,0 +1,1 @@
+{"bgColorIndex":0,"textColorIndex":1,"note":"aiogram==2.25.2\nfastapi==0.110.0\nuvicorn==0.29.0\npandas==2.2.2\nopenpyxl==3.1.2"}
